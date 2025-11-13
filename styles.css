@@ -10,7 +10,7 @@ Styling and Sizing for elements. Do not modify this section
 
 /***********************    body structure   ********************/
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
     margin: 0;
     padding: 0;
     }
